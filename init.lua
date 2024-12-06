@@ -5,12 +5,8 @@ dofile(modpath.."/weapons.lua")
 dofile(modpath.."/api.lua")
 
 
-dofile(modpath.."/generator.lua")
-dofile(modpath.."/glider_generator.lua")
-dofile(modpath.."/gun_generator.lua")
-dofile(modpath.."/pick_generator.lua")
-dofile(modpath.."/torch_generator.lua")
-dofile(modpath.."/juice_generator.lua")
+--dofile(modpath.."/generator.lua")
+
 
 
 
